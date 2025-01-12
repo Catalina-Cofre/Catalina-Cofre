@@ -2,10 +2,9 @@
 
 - 🔭 DevOps Engineer at [Sixbell Telco](https://github.com/sixbell-telco).
 - 🌱 Learning:
-  - DevOps IT Professional Program (1/6).
-  - Kubernetes. Working on getting CKA certification.
-- ⭐ 2024 Goals:
-  - Get CKA certification.
+  - Kubernetes. Working on getting KCNA certification.
+- ⭐ 2025 Goals:
+  - Get KCNA certification.
   - Increase my cloud knowledge.
 
 ## Socials
